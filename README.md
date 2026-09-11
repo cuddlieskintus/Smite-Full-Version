@@ -240,4 +240,4 @@ This repository serves as the official landing page for SMITE. The software is d
 **Get the most recent version of SMITE today!**
 
 ---
-**Last updated:** 2026-09-11 18:14:02 UTC
+**Last updated:** 2026-09-11 21:34:14 UTC
